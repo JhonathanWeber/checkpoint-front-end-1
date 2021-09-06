@@ -30,29 +30,35 @@
         </li>
       </ul>
     </header>
-    pi
     <main>
       <section>
         <div>
-          <iframe
-            src="https://www.youtube.com/embed/LNZhSNXU50k?start=4"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          ></iframe>
-          <p id="history">Niterói é um município da Região Metropolitana do Rio de Janeiro (RMRJ), no estado do Rio de Janeiro, Região Sudeste do Brasil. Foi a capital estadual, como indicado pela sua coroa mural dourada, exclusiva de capitais, entre 1834-1894 e novamente entre 1903-1975. Com população estimada em 513 584 habitantes, e aparece na 13ª posição entre os municípios do país segundo os indicadores sociais referentes à educação.[12]</p>
+        
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/LNZhSNXU50k?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <p id="history">
+            Niterói é um município da Região Metropolitana do Rio de Janeiro
+            (RMRJ), no estado do Rio de Janeiro, Região Sudeste do Brasil. Foi a
+            capital estadual, como indicado pela sua coroa mural dourada,
+            exclusiva de capitais, entre 1834-1894 e novamente entre 1903-1975.
+            Com população estimada em 513 584 habitantes, e aparece na 13ª
+            posição entre os municípios do país segundo os indicadores sociais
+            referentes à educação.[12]
+          </p>
         </div>
 
         <div class="card">
-            <h2>Curiosidades</h2>
+          <h2>Curiosidades</h2>
           <img src="/img/vista-noturna-do-parque.jpg" alt="" />
 
           <h1>Vista do Parque da Cidade</h1>
           <p>Cidade brasileira famosa pelo por suas pelas praias.</p>
         </div>
         <div class="card">
-          <img src="/img/mac5_08042021_110713.jpg" alt="MAC museo de arte comtemporania" />
+          <img
+            src="/img/mac5_08042021_110713.jpg"
+            alt="MAC museo de arte comtemporania"
+          />
 
           <h1>Vista do MAC</h1>
           <p>
@@ -62,7 +68,10 @@
         </div>
 
         <div class="card">
-          <img src="/img/09_PHG_rio_itacoatiara.jpg" alt="Vista de praia de Itacoatiara" />
+          <img
+            src="/img/09_PHG_rio_itacoatiara.jpg"
+            alt="Vista de praia de Itacoatiara"
+          />
 
           <h1>Vista do MAC</h1>
           <p>
@@ -72,8 +81,16 @@
         </div>
       </section>
       <aside>
-          <img onclick="https://www.instagram.com/cidadedeniteroi/" src="/img/instagram-icone-icon-7.png" alt="Instagram de Niteroi">
-          <img onclick="https://web.facebook.com/PrefeituraMunicipaldeNiteroi/?_rdc=1&_rdr" src="/img/facebook-icone-icon-7.png" alt="Facebook de Niteroi">
+        <img
+          onclick="https://www.instagram.com/cidadedeniteroi/"
+          src="/img/instagram-icone-icon-7.png"
+          alt="Instagram de Niteroi"
+        />
+        <img
+          onclick="https://web.facebook.com/PrefeituraMunicipaldeNiteroi/?_rdc=1&_rdr"
+          src="/img/facebook-icone-icon-7.png"
+          alt="Facebook de Niteroi"
+        />
       </aside>
     </main>
     <footer>
